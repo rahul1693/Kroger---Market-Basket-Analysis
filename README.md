@@ -1,4 +1,4 @@
-# Kroger - Market-Basket-Analysis
+# Retail Company - Market-Basket-Analysis
 ## Objective
 The objective of this analysis is to study the interaction between two
 pairs of products - **Pasta** with **Pasta Sauce** and **Syrup** with
